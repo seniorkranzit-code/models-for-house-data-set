@@ -1,0 +1,1 @@
+This repository contains a collection of my machine learning and data science projects as I learn and develop my skills in this field. My goal is to better understand how data can be used to make predictions, uncover patterns, and solve practical problems.
